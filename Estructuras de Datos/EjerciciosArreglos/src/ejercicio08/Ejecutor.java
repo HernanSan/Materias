@@ -6,8 +6,8 @@
 package ejercicio08;
 
 /**
- *
- * @author Pato
+8. Dada  una  lista  L de n X m  elementos,  diseñar  un  programa  que  calcule  la  suma  de 
+números pares e impares contenidos en ella. 
  */
 public class Ejecutor {
     

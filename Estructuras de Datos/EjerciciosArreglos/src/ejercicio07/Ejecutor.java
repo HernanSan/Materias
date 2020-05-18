@@ -6,8 +6,8 @@
 package ejercicio07;
 
 /**
- *
- * @author Pato
+7. Escribir  un  programa  que  permita  calcular  el  cuadrado  de  los  100  primeros  números 
+enteros y a continuación escribir un arreglo que contenga dichos resultados. 
  */
 public class Ejecutor {
     

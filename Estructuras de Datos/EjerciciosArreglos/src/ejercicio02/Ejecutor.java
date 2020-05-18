@@ -1,39 +1,22 @@
-
 package ejercicio02;
 
+import static ejercicio02.Operaciones.i;
+import static ejercicio02.Operaciones.numeros;
+import static ejercicio02.Operaciones.lim;
 import java.util.Scanner;
 
 /**
-Calcular  el  número  de  elementos  negativos,  cero  y  positivos  de  un
-*   vector  dado  de  n elementos. 
+ * Calcular  el  número  de  elementos  negativos,  cero  y  positivos  de  un  
+ * vector  dado  de  n elementos. 
  */
 public class Ejecutor {
-
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int[] numeros = new int[10];
-        int pos = 0, neg = 0, cero = 0; //contadores
-        int i;
-
-//Leemos los valores por teclado y los guardamos en el array
-        System.out.println("Lectura de los elementos del array: ");
-        for (i = 0; i < numeros.length; i++) {
-            System.out.print("numeros[" + i + "]= ");
-            numeros[i] = sc.nextInt();
-        }
-        //se recorre el array para contar positivos, negativos y ceros
-        for (i = 0; i < numeros.length; i++) {
-            if (numeros[i] > 0) {
-                pos++;
-            } else if (numeros[i] < 0) {
-                neg++;
-            } else {
-                cero++;
-            }
-        }
-        //mostrar resultados
-        System.out.println("Positivos: " + pos);
-        System.out.println("Negativos: " + neg);
-        System.out.println("Ceros: " + cero);
+   
+        //Leemos los valores por teclado y los guardamos en el array
+        System.out.println("¿Cuantos numeros decea ingresar?");
+        lim = sc.nextInt();
+        Operaciones.operaciones();
+   
     }
 }

@@ -6,8 +6,13 @@
 package ejercicio13;
 
 /**
- *
- * @author Pato
+ 13. Realice un programa que me permita realizar (según un menú presentado al usuario): 
+a. La multiplicación de dos matrices bidimensionales. 
+b. Suma de matrices. 
+c. Resta de matrices. 
+d. Multiplicación por un escalar 
+e. Traspuesta de una matriz 
+ (Considérese las restricciones necesarias para cada operación). 
  */
 public class Ejecutor {
     

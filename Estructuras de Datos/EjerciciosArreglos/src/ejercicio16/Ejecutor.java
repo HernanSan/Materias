@@ -3,11 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package ejercicio12;
+package ejercicio16;
 
 /**
- 12. Se dispone de una lista de n nombres de alumnos. Escribir un programa que solicite el 
-nombre de un alumno y busque en la lista si el nombre está o no. 
+16. Diseñe un programa que permita encontrar el determinante de una matriz. 
  */
 public class Ejecutor {
     

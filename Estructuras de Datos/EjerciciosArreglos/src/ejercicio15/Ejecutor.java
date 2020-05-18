@@ -3,11 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package ejercicio12;
+package ejercicio15;
 
 /**
- 12. Se dispone de una lista de n nombres de alumnos. Escribir un programa que solicite el 
-nombre de un alumno y busque en la lista si el nombre está o no. 
+15. Diseñe un programa que me permita implementar el algoritmo del “cuadrado mágico” 
+de un número de filas y columnas ingresado por teclado. 
  */
 public class Ejecutor {
     

@@ -3,11 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package ejercicio12;
+package ejercicio14;
 
 /**
- 12. Se dispone de una lista de n nombres de alumnos. Escribir un programa que solicite el 
-nombre de un alumno y busque en la lista si el nombre está o no. 
+ 14. Realice  un  programa  que  me  permita  realizar  el  ordenamiento  de  una  matriz 
+bidireccional (el ordenamiento debe ser realizado en la misma matriz) 
  */
 public class Ejecutor {
     

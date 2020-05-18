@@ -6,8 +6,9 @@
 package ejercicio11;
 
 /**
- *
- * @author Pato
+11. Una empresa tiene diez almacenes y desea un programa que lea sus ventas mensuales, 
+calcule la media de las ventas y obtener un listado de los almacenes  cuyas  ventas 
+mensuales son superiores a la media. 
  */
 public class Ejecutor {
     

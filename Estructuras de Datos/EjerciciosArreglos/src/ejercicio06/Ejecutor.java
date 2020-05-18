@@ -6,8 +6,11 @@
 package ejercicio06;
 
 /**
- *
- * @author Pato
+ 6. Se dispone de un arreglo de n elementos. Se desea diseñar un algoritmo que permita 
+insertar  el  valor  x  en  la  posición  k‐ésima  de  la  lista,  debiendo  desplazarse  los 
+elementos hacia  la  derecha para dar  lugar al  nuevo elemento  y  desechando el último 
+elemento sobrante. 
+ 
  */
 public class Ejecutor {
     
